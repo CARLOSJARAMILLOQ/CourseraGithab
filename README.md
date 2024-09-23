@@ -1,3 +1,3 @@
 # CourseraGithab
-Curse Github
+Course Github
 Hello 
